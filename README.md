@@ -6,5 +6,6 @@
 -
 
 ### Correcciones/Mejoras:
+- Mejora de interfaz
 - Se agregarán mas cryptomonedas.
 - Se agregará una calculadora.
